@@ -16,6 +16,6 @@
  * under the License.
  */
 
-module io.ballerina.stdlib.graphql.runtime {
+module io.ballerina.stdlib.graphql {
     requires io.ballerina.runtime;
 }
